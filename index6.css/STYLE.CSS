@@ -1,0 +1,33 @@
+.pink{
+    background-color: aliceblue;
+}
+.red {
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.item{
+ height: 50px;  
+ width: 35px; 
+ color: burlywood;
+}
+.container{
+    width: 55px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    place-content: initial;
+}
+#circle {
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+    border-radius: 50px;
+    a
+}
